@@ -24,10 +24,10 @@
   penetration tests or forensic crime investigations.
 
 
-Requirements
+Gerekenler
 ------------
+python3 ile çalıştırmanız gereklidir
 
-You need Python 3 to run CUPP.
 
 Quick start
 -----------
