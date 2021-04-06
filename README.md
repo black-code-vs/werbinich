@@ -4,9 +4,6 @@
 
 
  
-## About
-
-Bu Tool Wer bin ich grubu icin yapılmıştır
 
 
 ## Requirements
