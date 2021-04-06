@@ -12,6 +12,22 @@ Termuxla Uyumlu Halide Geldi
 ------------
 Çalışması İcin python3 Gereklidir
 
+Hata Alırsanız
+-----------
+İnstax Hatası İcin
+```
+cd Tools/İnstax
+chmod +x install.sh
+bash install.sh
+chmod +x instax.sh
+service tor start
+cd ..
+```
+Termuxta Nmap Hatası İcin 
+```
+Önce İşlem Numarasını 0 Yapın Ondan Sonra Sıkıntı Olmıyacaktır
+```
+
 
 Linux Quick start
 -----------
