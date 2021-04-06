@@ -17,7 +17,11 @@ Linux Quick start
 -----------
 
     $ python3 werbinich.py 
-##Linux Görüntüsü
+    
+    
+Linux Görüntüsü
+-----------
+![Linux](https://user-images.githubusercontent.com/81394274/113740807-b5786c00-9709-11eb-8ee2-d4e75953ce4e.png)
     
 Termux Quick start
 -----------
@@ -25,7 +29,8 @@ Termux Quick start
     $ python3 werbinich-termux.py 
     
     
-##Termux Görüntüsü
+Termux Görüntüsü
+-----------
 ![hWjZC5](https://user-images.githubusercontent.com/81394274/113740290-3e42d800-9709-11eb-8692-bb67c350d2d5.png)
 
 
