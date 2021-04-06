@@ -13,7 +13,7 @@ Bu Tool Wer bin ich grubu icin yapılmıştır
 
 ## Requirements
 ------------
-python3 ile çalıştırmanız gereklidir
+You need Python 3 to run
 
 
 Quick start
