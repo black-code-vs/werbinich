@@ -1,2 +1,7 @@
-# werbinich
-Bu arac </blâck>#2137 TheLostte#7322 tarafından yazılmıştır kısayol aracıdır
+# Wer Bin İch?
+Aracın İcinde Gelen Toolar
+
+cupp.py
+blackeye-im
+nmap kısayolları
+
