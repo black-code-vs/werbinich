@@ -32,9 +32,9 @@ elif(islemno=="3"):
 elif(islemno=="4"):
                os.system("zenmap")
 elif(islemno=="5"):
-               os.system("python3 /root/Desktop/werbinich/Tools/Cupp.py/cupp.py -i")
+               os.system("python3 Tools/Cupp.py/cupp.py -i")
 elif(islemno=="6"):
-               os.system("bash /root/Desktop/werbinich/Tools/Blackeye/blackeye.sh")
+               os.system("bash Tools/Blackeye/blackeye.sh")
 else:
   print("\033[31mHatalı Secim Yaptın")
 
