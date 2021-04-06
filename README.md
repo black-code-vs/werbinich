@@ -10,7 +10,7 @@ Termuxla Uyumlu Halide Geldi
 
 ## Requirements
 ------------
-You need Python 3 to run
+Çalışması İcin python3 Gereklidir
 
 
 Linux Quick start
